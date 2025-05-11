@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'](https://www.loom.com/share/2f53f870e551487e8d6719574d6a7203?sid=760e577c-2e31-457c-9995-410bd75c506d)' />
+<img src='https://www.loom.com/share/2f53f870e551487e8d6719574d6a7203?sid=760e577c-2e31-457c-9995-410bd75c506d' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  Loom
